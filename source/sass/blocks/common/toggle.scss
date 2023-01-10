@@ -20,8 +20,8 @@
     position: absolute;
     width: 26px;
     height: 2px;
-    background-color: $black;
-    box-shadow: 0 8px 0 0 $black, 0 16px 0 0 $black;
+    background-color: black;
+    box-shadow: 0 8px 0 0 black, 0 16px 0 0 black;
     transition: background-color 0.4s, box-shadow 0.4s;
   }
 
@@ -35,7 +35,7 @@
       position: absolute;
       width: 26px;
       height: 1.5px;
-      background-color: $black;
+      background-color: black;
       box-shadow: none;
       transition: background-color 0.4s;
     }

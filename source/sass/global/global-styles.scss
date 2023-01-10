@@ -4,7 +4,7 @@ body {
   min-height: 100%;
   margin: 0;
   padding: 0;
-  font-family: $oswald;
+  font-family: oswald;
   font-weight: 400;
   font-size: 16px;
   font-style: normal;
@@ -31,7 +31,7 @@ img {
 }
 
 a {
-  color: $black;
+  color: black;
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -57,7 +57,7 @@ table {
 }
 
 ::selection {
-  background-color: $basic-green;
+  background-color: basic-green;
   color: #ffffff;
 }
 
